@@ -32,7 +32,5 @@ I enjoy solving real-world problems through technology and continuously learning
 ## 📫 Reach Me
 
 * Email: vikas23593@iiitd.ac.in
-* LinkedIn: linkedin.com/in/your-profile
-* Portfolio: your-portfolio-link
-* GitHub: github.com/your-username
+* LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/vikas-meena-396023291/)
 
