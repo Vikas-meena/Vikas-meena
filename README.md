@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋, I'm Vikas Meena
+🚀 About Me
 
-<!--
-**Vikas-meena/Vikas-meena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about Machine Learning, Full-Stack Development, and building impactful software products.
 
-Here are some ideas to get you started:
+I enjoy solving real-world problems through technology and continuously learning new tools and frameworks. Apart from coding, I love photography, videography, and organizing tech events and communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Working On
+Learning Machine Learning and AI concepts
+Building full-stack web applications
+Developing AI-powered solutions and research platforms
+Improving backend systems, deployment workflows, and CI/CD pipelines
+Exploring Data Science and MLOps
